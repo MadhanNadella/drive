@@ -1,0 +1,91 @@
+RECURSION 55
+
+Fora binary tree an inv
+
+ler traversal is defined Fecursively
+
+1 Vint Mn inorder the left subtree ALIhe. 001 r i it exists,
+2 Visite
+>
+
+4s follows:
+
+Visit in inorder the right subt cof r (if
+
+Example 24, Figure 2
+
+WM Preorder (Fig. 2.89)
+
+tL exists),
+8 illustrates » binary tre
+
+¢ With the vertices numbered
+Postorder (Fig, 2.8),
+
+and inorder (Fig. 2.80), 5
+Once numbers have been assigned by
+10 Vertioes by their Assigned numbers. Thus y will denote
+has been Assigned the number \, If the vertices
+Vesited, then the Numberings h
+
+4 traversal, it is Convenient to refer
+
+the vertex which
+are numbered in the order
+
+Ve some interesting Properties,
+In preorder all Yertices ing
+
+ubtree with root r have numbers no less
+
+——— . froin...
+
+than F.” More precise y. FD, is the set of descendants of F then y is in D. if
+“wt only ifr sre L* (OA BY associating with cach vertex y both a pre-
+onder niimber and the Aumber of descendants We can easily determine whether
+& Vertex w is g descendant of y, After initially assigning preorder numbers
+
+scendants of each Vertex, the question of
+
+‘an be answered in a fixed amount of time
+
+independent of Wee size. Postorder Numbers have an Analogous Property,
+{norder numbers of a binary tree have the property that ci
+
+in the left subtree Ora ve
+
+Mat cach Vertex
+Tex v has a number less than v and e A Vertex in
+the right subtree has @ number greater than v,
+WlO Mote, If we
+
+Thus to find Vertex W, compare
+r, then w has been found. Ifw< r, then repeat the Process
+for the left subtree; if w > - Fepeal the process for the right Subtree, Eventy-
+ally w will be found. Such Properties of traversals Will be used in laterchapters,
+One final definition Concerning trees should be made.
+Definition. Ap undirected tree is an undirected raph which is connected
+between any tWo vertices) and acyclic, A rooted un-
+an undirected tree in w hich one Vertex is distinguished
+© can be made into a
+indirected. We shall us
+Uonal conventions for Footed undirected trees as
+mary mathematical distinction is th
+
+Sestors to descendants Whereas in a
+directions
+
+Footed undirected tree simply by
+
+‘ame terminology and Nota-
+for directed Tees, The pri-
+ed tree all Paths go from an-
+ected tree paths exist in both
+
+wit in a direct
+footed undin
+
+25 RECURSION
+
+ri
+On. In this section We shall
